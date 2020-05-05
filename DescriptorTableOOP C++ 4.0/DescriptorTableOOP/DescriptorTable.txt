@@ -1,0 +1,4 @@
+i int
+delta float
+varch char
+alpha double

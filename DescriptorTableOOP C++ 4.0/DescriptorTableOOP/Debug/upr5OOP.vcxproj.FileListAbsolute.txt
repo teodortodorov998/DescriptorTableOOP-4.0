@@ -1,0 +1,2 @@
+C:\Users\teko\source\repos\OOPgit\C++ OOP\DescriptorTableOOP C++\DescriptorTableOOP\Debug\DescriptorTableOOP.exe
+C:\Users\teko\source\repos\OOPgit\C++ OOP\DescriptorTableOOP C++\DescriptorTableOOP\Debug\DescriptorTableOOP.pdb
