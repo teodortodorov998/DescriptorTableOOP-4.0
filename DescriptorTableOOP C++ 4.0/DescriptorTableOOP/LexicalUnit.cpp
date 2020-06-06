@@ -12,9 +12,9 @@ int LexicalUnit::newDescriptor = 0;
 
 
 LexicalUnit::LexicalUnit() {
-	strcmp(identificator, "");
-	strcmp(type, "");
-	strcmp(descriptor, "");
+	strcpy_s(identificator, "");
+	strcpy_s(type, "");
+	strcpy_s(descriptor, "");
 	address = 0;
 }
 
